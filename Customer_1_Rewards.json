@@ -1,0 +1,27 @@
+{
+   "Customer":{
+      "customerId":1,
+      "firstName":"Bala",
+      "lastName":"A",
+      "email":"bala.a@gmail.com",
+      "phone":"603-555-1234"
+   },
+   "totalRewardPoints":556,
+   "Rewards":[
+      {
+         "year":2023,
+         "month":"march",
+         "points":210
+      },
+      {
+         "year":2023,
+         "month":"february",
+         "points":270
+      },
+      {
+         "year":2023,
+         "month":"january",
+         "points":76
+      }
+   ]
+}
